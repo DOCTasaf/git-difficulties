@@ -5,3 +5,6 @@ bash: cd: C:UsersAdministratorDesktopPlotNeuralNetX-masterPlotNeuralNetX-masterp
 Administrator@WIN-5LEUI8E66P6 MINGW64 ~
 $ bash ../tikzmake.sh test_simple
 bash: ../tikzmake.sh: No such file or directory
+
+
+---how can I deal with it
