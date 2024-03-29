@@ -1,0 +1,7 @@
+Administrator@WIN-5LEUI8E66P6 MINGW64 ~
+$  cd C:\Users\Administrator\Desktop\PlotNeuralNetX-master\PlotNeuralNetX-master\pyexamples
+bash: cd: C:UsersAdministratorDesktopPlotNeuralNetX-masterPlotNeuralNetX-masterpyexamples: No such file or directory
+
+Administrator@WIN-5LEUI8E66P6 MINGW64 ~
+$ bash ../tikzmake.sh test_simple
+bash: ../tikzmake.sh: No such file or directory
